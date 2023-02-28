@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1641951014 source:d:\projetos\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1641951054 source:d:\projetos\lista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1641951070 d:\projetos\lista\lista.h
+
+1641998348 source:d:\projetos\lista2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1641998318 d:\projetos\lista2\lista.h
+
+1641998302 source:d:\projetos\lista2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1643908587 source:d:\projetos\trabalho aed1\questão 1\main.c
+	<stdio.h>
+	"lista.h"
+
+1643908266 d:\projetos\trabalho aed1\questão 1\lista.h
+	<stdlib.h>
+	"lista.h"
+
+1643908961 source:d:\projetos\trabalho aed1\questão 1\lista.c
+	<stdlib.h>
+	"lista.h"
+
+1643909095 source:d:\projetos\trabalho aed1\questão 1\extensão\main.c
+	<stdio.h>
+	"lista.h"
+
+1643908266 d:\projetos\trabalho aed1\questão 1\extensão\lista.h
+	<stdlib.h>
+	"lista.h"
+
+1644150367 source:d:\projetos\trabalho aed1\questão 1\extensão\lista.c
+	<stdlib.h>
+	"lista.h"
+

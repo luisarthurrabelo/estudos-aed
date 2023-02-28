@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1641951014 source:d:\projetos\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1641951054 source:d:\projetos\lista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1641951070 d:\projetos\lista\lista.h
+
+1641998348 source:d:\projetos\lista2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1641998318 d:\projetos\lista2\lista.h
+
+1641998302 source:d:\projetos\lista2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1642356453 source:d:\projetos\lista\lista3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1642357481 d:\projetos\lista\lista3\lista.h
+
+1642357341 source:d:\projetos\lista\lista3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1642512145 source:d:\projetos\lista\lista4\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1642364129 d:\projetos\lista\lista4\lista.h
+
+1642513504 source:d:\projetos\lista\lista4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1643030249 source:d:\projetos\lista\lista dinamica encadeada\lista 1\extensão\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1643030492 d:\projetos\lista\lista dinamica encadeada\lista 1\extensão\lista.h
+
+1643030442 source:d:\projetos\lista\lista dinamica encadeada\lista 1\extensão\main.c
+	<stdio.h>
+	"lista.h"
+
+1643828627 source:d:\projetos\trabalho aed1\questão 5\extensão\lista.c
+	<stdlib.h>
+	"lista.h"
+
+1643632030 d:\projetos\trabalho aed1\questão 5\extensão\lista.h
+
+1643760430 source:d:\projetos\trabalho aed1\questão 5\extensão\main.c
+	<stdio.h>
+	"lista.h"
+

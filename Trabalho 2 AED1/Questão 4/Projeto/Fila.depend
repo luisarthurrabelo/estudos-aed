@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1645972293 source:d:\projetos\filas\questão 1\extensão\main.c
+	<stdio.h>
+	<string.h>
+	"Fila.h"
+
+1645912510 source:d:\projetos\filas\questão 1\extensão\fila.c
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1645907708 d:\projetos\filas\questão 1\extensão\fila.h
+
+1645974794 source:d:\projetos\filas\questão 2\extensão\main.c
+	<stdio.h>
+	<string.h>
+	"Fila.h"
+
+1645974397 d:\projetos\filas\questão 2\extensão\fila.h
+
+1647185905 source:d:\projetos\trabalho 2 aed1\questão 3\extensão\fila.c
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1647185905 d:\projetos\trabalho 2 aed1\questão 3\extensão\fila.h
+
+1647186005 source:d:\projetos\trabalho 2 aed1\questão 3\extensão\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fila.h"
+
+1647821283 source:d:\projetos\trabalho 2 aed1\questão 4\extensão\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1647821268 d:\projetos\trabalho 2 aed1\questão 4\extensão\fila.h
+
+1647821283 source:d:\projetos\trabalho 2 aed1\questão 4\extensão\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

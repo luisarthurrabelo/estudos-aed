@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1645379638 source:d:\projetos\trabalho 2 aed1\questão 1\extensão\main.c
+	<stdio.h>
+	<string.h>
+	"pilha.h"
+
+1645100134 d:\projetos\trabalho 2 aed1\questão 1\extensão\pilha.h
+
+1645325007 source:d:\projetos\trabalho 2 aed1\questão 1\extensão\pilha.c
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1647186618 source:d:\projetos\trabalho 2 aed1\questão 2\extensão\pilha.c
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1647186552 d:\projetos\trabalho 2 aed1\questão 2\extensão\pilha.h
+
